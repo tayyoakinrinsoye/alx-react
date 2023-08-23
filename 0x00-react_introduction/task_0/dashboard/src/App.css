@@ -1,0 +1,31 @@
+:root {
+  --color-brand: #e01d3f;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: var(--color-brand);
+  font-size: 15px;
+
+  border-bottom: 3px solid var(--color-brand);
+}
+
+.App-header img {
+  width: 150px;
+}
+
+.App-body {
+  margin: 50px;
+}
+
+.App-footer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  font-style: italic;
+  position:fixed;
+  border-top: 3px solid var(--color-brand);
+  bottom: 0;
+}
