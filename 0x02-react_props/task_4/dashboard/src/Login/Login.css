@@ -1,0 +1,22 @@
+.App-body{
+    font-size: 1.1rem;
+    width: 100%;
+    height: 50%;
+    /*padding: 200px*/
+  }
+
+  .App-body p{
+    
+    padding:0 10% 0;
+  }
+
+  form {
+    padding:0 10% 0;
+    margin: 20px 0;
+  }
+  form input {
+    margin: 5px;
+  }
+  .App-body {
+  margin: 25px;
+}
