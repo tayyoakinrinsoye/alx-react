@@ -1,0 +1,24 @@
+:root {
+  --color-brand: #e01d3f;
+}
+
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: var(--color-brand);
+  font-size: 15px;
+  width:100%;
+
+  border-bottom: solid var(--color-brand);
+}
+
+  
+.App-header img {
+  width: 150px;
+}
+  
+  .App-header h1 {
+    color: #E0354B;
+  }
